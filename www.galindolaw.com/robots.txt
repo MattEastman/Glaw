@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /includes/service
+
+Sitemap: http://www.galindolaw.com/sitemap.xml
